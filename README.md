@@ -19,3 +19,5 @@ Reverse Shell with remote code execution written in python using sockets. Allows
 
 extra
 >* compile client.py for professionalism.
+
+caveat: obligatory, I DO NOT take resposibility for misuse of this script. This script is for educational purposes only.
